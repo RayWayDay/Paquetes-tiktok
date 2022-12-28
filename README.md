@@ -1,5 +1,5 @@
 # Paquetes-tiktok
-## Aquí podrás encontrar todos los enlaces de los paquetes que hemos mostrado en nuestro canal de Tik Tok.
+## Aquí podrás encontrar todos los enlaces de los paquetes que hemos mostrado en nuestro canal de Tik Tok: https://www.tiktok.com/@raywaydayoficial
 
 ### Flutter_slidable
 #### https://pub.dev/packages/flutter_slidable
